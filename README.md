@@ -1,5 +1,7 @@
 # dailycheck
 
+This is a small and simple PWA application to check if daily routine job has been done or not.
+
 ## Project setup
 ```
 yarn install
@@ -19,6 +21,3 @@ yarn build
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
